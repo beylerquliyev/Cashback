@@ -1,0 +1,182 @@
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 84px;
+}
+
+.header-top ul{
+    display: flex;
+    gap: 25px;
+    height: 100px;
+    align-items: center;
+}
+
+.header-top ul li a{
+    text-decoration: none;
+    color: black;
+   
+   
+}
+
+header ul {
+    list-style-type: none;
+    
+
+}
+.header-bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+    gap: 100px;
+    
+    
+}
+.header-bottom ul{
+    display: flex;
+    gap: 30px;
+   align-items: center;
+   margin-top: 14px;
+ 
+
+}
+
+
+.header-bottom ul a{
+    text-decoration: none;
+    color: black;
+    
+   
+
+}
+.header-bottom img{
+    width: 80x;
+}
+.div1{
+    background-color: #d3d3d3;
+}
+
+.span1{
+color: #e25f6c;
+}
+
+.img-main img{
+    width: 210px;
+    border-radius: 10px;
+}
+
+.txt1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+.global-main{
+    width: 80%;
+   display: flex;
+   gap: 100px;
+   
+    
+    
+}
+
+.img-main{
+    width: 20%;
+}
+.full-main{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+ 
+   
+   
+   
+}
+
+.calc{
+    border: 1px solid rgba(0,0,0,.125);;
+    width: 40%;
+  
+}
+.calc-h{
+    border: 1px solid rgba(0,0,0,.125);;
+}
+.result{
+    border: 1px solid rgba(0,0,0,.125);;
+    width: 40%;
+    height: 160px;
+    
+
+}
+.results-h{
+    border: 1px solid rgba(0,0,0,.125);;
+   
+
+}
+.calc-h{
+    background-color: rgba(0,0,0,.03);;
+   
+}
+.results-h{
+    background-color: rgba(0,0,0,.03);;
+}
+.calc-m{
+    display: flex;
+    flex-direction: column;
+}
+.calc-m p{
+    padding-top: 8px;
+}
+.btn-f button{
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: antiquewhite;
+    background-color: #e25f6c;
+    border-radius: 3px;
+}
+.btn-f{
+    display: flex;
+    gap: 100px;
+}
+.calc-m input{
+    height: 40px;
+}
+.calc-h p{
+    padding-top: 12px;
+}
+.results-h p{
+    padding-top: 12px;
+}
+.tb tr {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    width: 100%;
+    padding-bottom: px;
+}
+.tb1{
+    border: 1px solid rgba(0,0,0,.125);;
+    width: 220px;
+    height: 50px;
+    margin-top: 25px;
+    text-align: center;
+    padding-top: 12px;
+    
+
+}
+.tb2{
+    border: 1px solid rgba(0,0,0,.125);;
+    width: 120px;
+    height: 50px;
+    margin-top: 25px;
+    text-align: center;
+    padding-top: 12px;
+}
+
+section{
+    height: 500px;
+}
